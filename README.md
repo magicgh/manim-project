@@ -8,7 +8,7 @@
 * DemoScene, a rough presentation or demonstration
 * ~~EndScene~~
 
-## Requirement
+## Requirements
 * [3b1b/manim](https://github.com/3b1b/manim)
 * A Tex engine that can display the CJK characters
    
