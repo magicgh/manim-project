@@ -10,7 +10,7 @@
 
 ## Requirements
 * [3b1b/manim](https://github.com/3b1b/manim)
-* A Tex engine that can display the CJK characters
+* A Tex engine that can render CJK characters
    
 &emsp;&emsp;**Pay attention that the source file is unavailable to be complied directly, because I just modified some functions of Manim.** 
 
