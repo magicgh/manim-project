@@ -16,3 +16,6 @@
 
 ## Data Declaration
 &emsp;&emsp;All the physical data are provided by my friend, a freshman majoring in physics, so I cannot ensure their accuracy.        
+
+## LICENSE
+[MIT License](https://mit-license.org/)
